@@ -61,17 +61,17 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Raven B+',
-'Raven B+',
-'Raven B+',
-'Raven B+',
-'Help Me..',
-'Raven B+',
-'Raven B+',
-'Raven B+',
-'Raven B+',
-'Raven B+',
-'Locked In Basement..'];
+'lol',
+'lol',
+'lol',
+'lol',
+'Holding Lto hostage..',
+'lol',
+'lol',
+'lol',
+'lol',
+'lol',
+'Join the discord..'];
 
 
 const el = document.querySelector('.text');
